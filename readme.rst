@@ -2,6 +2,8 @@
 Web scraper of subreddit ITALY 
 
 => https://old.reddit.com/r/italy/
+
+DEMO : https://newscraper.000webhostapp.com/
 ###################
 
 
